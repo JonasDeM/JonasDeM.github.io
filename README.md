@@ -7,10 +7,10 @@ I’m a programmer that lives in Belgium. I hold a bachelor's degree in game dev
 For my official resume, click [here](Media/Resume.pdf).
 
 ## C++
-**[VulkanoEngine](https://github.com/JonasDeM/VulkanoEngine#vulkanoengine-10)**: My own game engine, made with: Vulkan, Nvidia PhysX and Glfw.  
-[Run, Garry Run!](Run-Garry-Run#run-garry-run): Remake of a popular mobile game. My first C++ project.  
+**[VulkanoEngine](https://github.com/JonasDeM/VulkanoEngine)**: My own game engine, made with: Vulkan, Nvidia PhysX and Glfw.  
+[Run, Garry Run!](Run-Garry-Run): Remake of a popular mobile game. My first C++ project.  
 [DirectX11](DirectX11-Framework#implementing-features-in-a-game-engine): Implemented Graphics Programming features in existing DirectX11 framework.  
-[MultiPlatform FileSystem](https://github.com/JonasDeM/VirtualFileSystem#virtual-file-system): Virtual filesystem that can be built for Linux and Windows.  
+[MultiPlatform FileSystem](https://github.com/JonasDeM/VirtualFileSystem): Virtual filesystem that can be built for Linux and Windows.  
 
 ## Unity - C\# 
 [Kanjigame](KanjiGame#kanjiprototype): Game Prototype with working Japanese character recognition.  
