@@ -7,11 +7,10 @@ I’m a programmer that lives in Belgium. I hold a bachelor's degree in game dev
 For my official resume, click [here](Media/Resume.pdf).
 
 ## C++
-[VulkanoEngine](VulkanoEngine): My own game engine, made with: Vulkan, Nvidia PhysX and Glfw.  
+**[VulkanoEngine](VulkanoEngine)**: My own game engine, made with: Vulkan, Nvidia PhysX and Glfw.  
 [JetPack JoyRide Remake](JumperMan): Remake of a popular mobile game. My first C++ project.  
 [DirectX](GraphicsProgramming): Implemented Graphics Programming features in existing DirectX11 framework.  
 [MultiPlatform FileSystem](VirtualFileSystem): Virtual filesystem that can be built for Linux and Windows.  
-[UTF-8 Parser](UTF-8-Parser): Converts UTF-8 textfile to UTF-32.  
 
 ## Unity - C\# 
 [Kanjigame](KanjiGame): Game Prototype with working Japanese character recognition.  

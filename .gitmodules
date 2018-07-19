@@ -1,3 +1,6 @@
 [submodule "VulkanoEngine"]
 	path = VulkanoEngine
 	url = https://github.com/JonasDeM/VulkanoEngine
+[submodule "VirtualFileSystem"]
+	path = VirtualFileSystem
+	url = https://github.com/JonasDeM/VirtualFileSystem.git
