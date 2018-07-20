@@ -17,6 +17,10 @@ For my official resume, click [here](Media/Resume.pdf).
 [Forgotten](Forgotten): Game Prototype for an atmospheric platformer.  
 
 ## Tool Development
-[Python Tool Dev](https://cyborn.be/): I was part of the tool development team at [Cyborn](https://cyborn.be/), made tools for a feature film and commercial projects.  
-[C# code reference tool](CSharpRefTool): TODO
+[Python Tool Dev](https://cyborn.be/): I was part of the tool development team at [Cyborn](https://cyborn.be/), made tools for a feature film and commercial projects. Made tools for: Maya, Nuke and Deadline. UI realised with QT.
+[C# tool](CSharpRefTool): Tool written in C#, using the MVVM design pattern. Dynamic on/offline browsing through [cppreference](cppreference.com), take notes per subject etc...
+
+## Gamejams
+[The Great Eggscape](GameJams): An challenging 2-player coop endless runner, try to eggscape the slaughterhouse.
+[VR Horror](GameJams): Walk trough an abandoned hospital with a malfunction flashlight. Spooky! :^)
 
