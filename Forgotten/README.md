@@ -6,13 +6,12 @@ Prototyping, Camera and Player movement, Level interaction, Level Creation and U
 
 **How:**
 Made in Unity, using C# for scripting and TortoiseHg for source control.
-Take a look at the script for the player behaviour [here](PlayerScript.cs).  
+Take a look at the script for the player behaviour [here](https://github.com/JonasDeM/JonasDeM.github.io/blob/master/Forgotten/PlayerScript.cs).  
 
 **Who:**
 Team of 2 artists and 2 programmers. We made this prototype in 3 weeks.  
 
-[**Video:**](https://youtu.be/OoIFFn0YiDs)
+**Video:**  
 >In this video you can watch 10 minutes of gameplay. Feel free to skip through the video to get a feel of how the game plays.
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoIFFn0YiDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"> </iframe>

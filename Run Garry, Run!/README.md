@@ -6,7 +6,4 @@ The whole game was made in C++ with the help of a small framework which included
 
 **Who Worked On It:** 
 Only me
-
-[**Video**](https://youtu.be/rsUDC2kO9W4)
-
-<iframe width="420" height="315" src="https://youtu.be/rsUDC2kO9W4" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsUDC2kO9W4?start=22" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"> </iframe>
