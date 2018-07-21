@@ -1,4 +1,4 @@
-These are PARTS of the framework i implemented myself. They are useless by themselves. And the only purpose is to demonstrate parts of the code that create visuals as seen on my portfolio (https://jonasdemaeseneer.wordpress.com/featured-two/) just search for "Implementing features in a Game Engine".
+These are PARTS of the framework i implemented myself. They are useless by themselves. And the only purpose is to demonstrate parts of the code that create visuals as seen [here](../).
 
 # File Descriptions
 

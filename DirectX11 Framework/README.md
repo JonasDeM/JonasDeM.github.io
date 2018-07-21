@@ -1,6 +1,6 @@
 # Implementing Features in a Game Engine
 
-## [Source Snippets](Source)
+## [Source Snippets](https://github.com/JonasDeM/Portfolio/tree/master/DirectX11%20Framework/Source)
 
 ## Contents
 [Fur](#fur-with-clutter-force-and-a-lot-of-parameters)  
@@ -15,6 +15,6 @@
 ## Model with Material, Shadows and Animations
 ![anim](../Media/DX11Anim.gif)
 ## Post Processing
-> [Source](/Source/RadialBlur.fx) of the radial blur shader:
+> [Source](Source/RadialBlur.fx) of the radial blur shader:
 
 ![post](../Media/DX11Post.jpg)
