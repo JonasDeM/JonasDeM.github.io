@@ -3,8 +3,11 @@ Hi,
 Welcome to my portfolio, I am Jonas De Maeseneer.
 I’m a programmer that lives in Belgium. I hold a bachelor's degree in game development from Howest-Kortrijk, more specific the [DAE](http://www.digitalartsandentertainment.be) (Digital Arts and Entertainment) branch of the school.  
 
-## Resume
-For my official resume, click [here](Media/Resume.pdf).
+## General
+For my official resume, click [here](Media/Resume.pdf).   
+[My Github](https://github.com/JonasDeM)  
+[My LinkedIn](https://www.linkedin.com/in/JonasDeMaeseneer)  
+Email addres: jonas.de.maeseneer@outlook.com
 
 ## C++
 **[VulkanoEngine](https://jonasdem.github.io/VulkanoEngine)**: My own game engine, made with: Vulkan, Nvidia PhysX and Glfw.  
