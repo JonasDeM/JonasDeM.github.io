@@ -1,6 +1,9 @@
 # Forgotten
 A relaxing 2D platformer with simplistic artstyle and gameplay.  
 
+![1](../Media/Forgotten1.gif) ![2](../Media/Forgotten2.gif)
+
+
 **What I Did:**
 Prototyping, Camera and Player movement, Level interaction, Level Creation and UI.  
 

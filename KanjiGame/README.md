@@ -1,6 +1,6 @@
 # KanjiPrototype
 **What:**
-A first protoype of a game that aims to teach people how to write Kanji in a more relaxing manner. It's for mobile.  
+A first prototype of a game that aims to teach people how to write Kanji in a more relaxing manner. It's for mobile.  
 
 **How:**
 Made in Unity. Scripts and Stand-alone tools in C#.
@@ -15,7 +15,7 @@ Coding was mostly on my own, with some help from another developer. Assets are f
 
 **What I Did:**
 * Created a tool to convert .svg data into my own custom recognition data
-* Kanji recognition inside unity
+* Kanji recognition inside Unity
 * Menus, UI, Sound
 * Gameplay  
 
