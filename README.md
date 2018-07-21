@@ -1,5 +1,5 @@
 Hi,  
-![photo of me](Media/ME_lowres.jpg)  
+![photo of me](Media/ME_lowres.jpg)   
 Welcome to my portfolio, I am Jonas De Maeseneer.
 I’m a programmer that lives in Belgium. I hold a bachelor's degree in game development from Howest-Kortrijk, more specific the [DAE](http://www.digitalartsandentertainment.be) (Digital Arts and Entertainment) branch of the school.  
 
@@ -21,5 +21,5 @@ For my official resume, click [here](Media/Resume.pdf).
 [C# tool](CSharpRefTool): Tool written in C#, using the MVVM design pattern. Dynamic on/offline browsing through cppreference.com, take notes per subject etc...  
 
 ## Gamejams
-[The Great Eggscape](GameJams): An challenging 2-player coop endless runner, try to eggscape the slaughterhouse.  
+[The Great Eggscape](GameJams): A challenging 2-player coop endless runner, try to eggscape the slaughterhouse.  
 [VR Horror](GameJams): Walk trough an abandoned hospital with a malfunction flashlight. Spooky! :^)
